@@ -183,3 +183,6 @@ fabric.properties
 
 
 /rawData/
+/processedData/
+/diagramOutput/
+*.png
