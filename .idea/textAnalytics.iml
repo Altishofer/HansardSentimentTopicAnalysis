@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/rawData" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/diagramOutput" />
+      <excludeFolder url="file://$MODULE_DIR$/processedData" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (textAnalytics)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
